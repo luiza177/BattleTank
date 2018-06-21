@@ -1,2 +1,2 @@
 # BattleTank
-Battle tank unreal course
+Battle tank unreal course: An open world head-to-head tank fight game with simple AI, terrain and advanced control system in UE4.
